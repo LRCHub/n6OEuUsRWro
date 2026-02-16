@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Shurica",
+  "base_artist": "KIRATORA",
+  "createdAt": "2026-02-16T02:15:46.912200Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shurica (feat. ViA)",
+      "artist": "KIRATORA",
+      "has_synced": false,
+      "path": "select/pl_01_Shurica_(feat._ViA)_KIRATORA.txt"
+    }
+  ]
+}
